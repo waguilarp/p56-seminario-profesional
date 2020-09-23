@@ -1,0 +1,4 @@
+Universidad Politécnica Salesiana
+Seminario Profesional 
+1era Sesión Git
+2da Sesión javascript
