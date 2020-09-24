@@ -1,4 +1,5 @@
 Universidad Politécnica Salesiana
 Seminario Profesional 
-1era Sesión Git
-2da Sesión javascript
+1.- Git & GitHub - 21/09/2020
+2.- Git & GitHub - 22/09/2020
+3.- Fundamentos de Javascript - 22/09/2020
