@@ -3,3 +3,4 @@ Carrera de Ingeniería en Sistemas
 Seminario Profesional - Node.js + MongoDB
 
 clases -Diapositivas sobre las clases de este seminario.
+talleres - descripción de los talleres del seminario.
