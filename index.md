@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/waguilarp/p56-seminario-pr
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### MSesión de clases
+### Sesión de clases
 
 Lunes 21/09/2020 "Comando de GIT" 
 
