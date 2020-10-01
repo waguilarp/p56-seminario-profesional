@@ -1,0 +1,18 @@
+{
+  "name": "utcae",
+  "version": "1.0.0",
+  "description": "Sistema de titulación para la carrera de administración de empresas ",
+  "main": "server.js",
+  "scripts": {
+    "test": "utecae"
+  },
+  "keywords": [
+    "utecae"
+  ],
+  "author": "Washington Aguilar",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
